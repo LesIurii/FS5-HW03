@@ -68,7 +68,7 @@ flex-direction: row-reverse;
 }
 .firstImg{
 	display: inline-block;
-	width: 20%;
+	max-width: 20%;
 	padding: 10px;
 }
 .intext {
